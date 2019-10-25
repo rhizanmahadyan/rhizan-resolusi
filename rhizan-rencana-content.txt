@@ -5,5 +5,6 @@ Rencana KOnten Rhizan
  * java
  * js
  * front end dann fundamental
-- php framework
+*laravel
 - video
+-angular
