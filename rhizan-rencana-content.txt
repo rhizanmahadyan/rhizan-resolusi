@@ -1,4 +1,6 @@
 Rencana KOnten Rhizan
 - java script
-php framework
-video
+ *es6
+ *python
+- php framework
+- video
