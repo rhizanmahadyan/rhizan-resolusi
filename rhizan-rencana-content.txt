@@ -3,6 +3,6 @@ Rencana KOnten Rhizan
  *es6
  *python
  * front end dann fundamental
-- php framework
 *laravel
 - video
+-angular
