@@ -2,6 +2,8 @@ Rencana KOnten Rhizan
 - java script
  *es6
  *python
+ * java
+ * js
  * front end dann fundamental
 - php framework
 - video
