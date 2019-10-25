@@ -1,0 +1,6 @@
+Rencana KOnten Rhizan
+- java script
+ *es6
+ *python
+- php framework
+- video
